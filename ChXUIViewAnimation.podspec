@@ -1,9 +1,9 @@
  Pod::Spec.new do |s|
  s.name         = "ChXUIViewAnimation"
- s.version      = "1.0.0"
+ s.version      = "1.0.1"
  s.ios.deployment_target = '8.0'
- s.summary      = “简介"
- s.homepage     = "https://github.com/sunrisechen007"
+ s.summary      = "简介"
+# s.homepage     = "https://github.com/sunrisechen007"
  s.license      = "MIT"
  s.author       = { "xuchen" => "2235037295@qq.com" }
  s.source       = { :git => 'https://github.com/sunrisechen007/ChXUIViewAnimation.git', :tag =>    s.version}
